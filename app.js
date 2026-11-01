@@ -1,6 +1,6 @@
 /**
  * WISPER LAB — CORPORATE CLIENT LOGIC & INTERACTION CONTROLLER
- * Zero external libraries • High-trust accessibility • Meta Verification Primed
+ * Zero external libraries • High-trust accessibility • Enterprise Standard
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -169,7 +169,7 @@ function initCopyActions() {
           email: "fahadislam.fir@gmail.com",
           primary_domain: "https://wisperlab.fahadislam.com"
         },
-        meta_verification_status: "Primary Corporate Verification Portal"
+        compliance_status: "Active Registered Enterprise"
       };
 
       const jsonString = JSON.stringify(entityDossier, null, 2);

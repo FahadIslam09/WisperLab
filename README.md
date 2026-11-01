@@ -8,7 +8,7 @@
 ---
 
 ## 1. Executive Summary & Verification Purpose
-This codebase contains the production-ready single-page corporate website for **Wisper Lab**, engineered both as the company's official digital presence and as the primary legal verification property for the **Meta Business Portfolio (Meta Business Manager)**, financial partners, tax authorities, and enterprise clients.
+This codebase contains the production-ready single-page corporate website for **Wisper Lab**, engineered both as the company's official digital presence and as the primary legal verification property for enterprise compliance, financial partners, tax authorities, and business platforms.
 
 Every corporate attribute, government registration detail, physical address, and communication line is rendered verbatim in semantic HTML5 with matching Schema.org (`Organization` and `LocalBusiness`) JSON-LD structured data.
 
@@ -84,7 +84,7 @@ Crafted in accordance with Swiss architectural grid principles (inspired by Stri
      - **Wisper Digital Publications:** Educational and technical literature distribution across Bangladesh.
 
 5. **Corporate Registry & Verification Ledger (`#corporate-info`)**
-   - 2-column compliance table engineered specifically for Meta Business Manager and platform analysts.
+   - 2-column compliance table engineered for corporate compliance and platform analysts.
    - Every single license field rendered verbatim in high-contrast solid typography.
    - **"Copy Machine-Readable JSON Dossier"** button for immediate regulatory review.
 
@@ -95,7 +95,7 @@ Crafted in accordance with Swiss architectural grid principles (inspired by Stri
 7. **Compliance Footer & Interactive Legal Modals**
    - Full repetition of company credentials, address, and contacts.
    - Three interactive modal trigger buttons (zero dead links or `#` jumps):
-     - **Privacy Policy:** Comprehensive disclosure of data handling, local-first mobile architecture, Meta Business Tools compliance, cookies, retention, and user rights.
+     - **Privacy Policy:** Comprehensive disclosure of data handling, local-first mobile architecture, third-party analytics, cookies, retention, and user rights.
      - **Terms of Service:** Commercial terms, intellectual property ownership (Md. Fahad Islam / Wisper Lab), acceptable use, and exclusive jurisdiction in Rajshahi, Bangladesh.
      - **Refund & Delivery Policy:** SLAs for digital deliveries (instant to 24h) and physical parcel courier transit (3–5 business days nationwide), return eligibility within 7 days, and consumer protection adherence under the Bangladesh Consumer Rights Protection Act, 2009.
 
@@ -127,7 +127,7 @@ Because the codebase is written in clean, modern HTML5, CSS, and vanilla JS, the
 
 ---
 
-## 6. Verification Checklist for Meta Reviewers
+## 6. Official Verification Checklist
 - [x] Legal Entity Name matches Trade License (`Wisper Lab`).
 - [x] Proprietor Name matches National ID and License (`Md. Fahad Islam`).
 - [x] Trade License Number matches government database (`20268119454000219`).
