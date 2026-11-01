@@ -160,7 +160,7 @@ function initCopyActions() {
           line_2: "Post Office: Krishnapur, Upazila: Tanore",
           city_district: "Rajshahi",
           state_division: "Rajshahi",
-          postal_code: "6220",
+          postal_code: "6230",
           country: "Bangladesh",
           geo_coordinates: "24.58° N, 88.58° E"
         },

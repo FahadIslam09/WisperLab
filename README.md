@@ -51,7 +51,7 @@ Crafted in accordance with Swiss architectural grid principles (inspired by Stri
 | **Trade License Number** | `20268119454000219` |
 | **Issuing Authority** | No. 3 Pachandar Union Parishad, Upazila: Tanore, District: Rajshahi |
 | **Fiscal Year & Validity** | 2026–2027 (Valid up to 30 June 2027) |
-| **Registered Business Address** | Kachua Uttar Para, Ward No- 07, Post Office: Krishnapur, Upazila: Tanore, City/District: Rajshahi, State/Region: Rajshahi, Postal Code: 6220, Country: Bangladesh |
+| **Registered Business Address** | Kachua Uttar Para, Ward No- 07, Post Office: Krishnapur, Upazila: Tanore, City/District: Rajshahi, State/Region: Rajshahi, Postal Code: 6230, Country: Bangladesh |
 | **Geographic Coordinates** | 24.58° N, 88.58° E |
 | **Official Business Phone** | `+8801516556465` (Clickable `tel:` with one-click copy) |
 | **Official Business / Support Email** | `fahadislam.fir@gmail.com` (Clickable `mailto:` with one-click copy) |
@@ -131,7 +131,7 @@ Because the codebase is written in clean, modern HTML5, CSS, and vanilla JS, the
 - [x] Legal Entity Name matches Trade License (`Wisper Lab`).
 - [x] Proprietor Name matches National ID and License (`Md. Fahad Islam`).
 - [x] Trade License Number matches government database (`20268119454000219`).
-- [x] Registered Address includes Ward No- 07, Post Office: Krishnapur, Upazila: Tanore, Rajshahi-6220.
+- [x] Registered Address includes Ward No- 07, Post Office: Krishnapur, Upazila: Tanore, Rajshahi-6230.
 - [x] Official Phone is clickable and matches business records (`+8801516556465`).
 - [x] Official Support Email matches verified inbox (`fahadislam.fir@gmail.com`).
 - [x] Privacy Policy, Terms of Service, and Refund & Delivery Policy are functional and non-placeholder.
