@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#FAF9F5" stroke="#E2E0D8" stroke-width="2"/>
+  <rect x="8" y="8" width="48" height="48" fill="#FFFFFF" stroke="#E2E0D8" stroke-width="1.5"/>
+  <!-- Architectural Monogram W -->
+  <path d="M18 20 L24 44 L32 28 L40 44 L46 20" fill="none" stroke="#0D3B2E" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
+  <!-- Micro registration dot -->
+  <circle cx="48" cy="44" r="2" fill="#0D3B2E" />
+</svg>

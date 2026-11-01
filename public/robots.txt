@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wisperlab.fahadislam.com/sitemap.xml
