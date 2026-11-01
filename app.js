@@ -166,7 +166,7 @@ function initCopyActions() {
         },
         contact: {
           telephone: "+8801516556465",
-          email: "contact@fahadislam.com",
+          email: "fahadislam.fir@gmail.com",
           primary_domain: "https://wisperlab.fahadislam.com"
         },
         meta_verification_status: "Primary Corporate Verification Portal"
@@ -346,3 +346,4 @@ function initSmoothScroll() {
     });
   });
 }
+

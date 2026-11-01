@@ -54,7 +54,7 @@ Crafted in accordance with Swiss architectural grid principles (inspired by Stri
 | **Registered Business Address** | Kachua Uttar Para, Ward No- 07, Post Office: Krishnapur, Upazila: Tanore, City/District: Rajshahi, State/Region: Rajshahi, Postal Code: 6220, Country: Bangladesh |
 | **Geographic Coordinates** | 24.58° N, 88.58° E |
 | **Official Business Phone** | `+8801516556465` (Clickable `tel:` with one-click copy) |
-| **Official Business Email** | `contact@fahadislam.com` (Clickable `mailto:` with one-click copy) |
+| **Official Business / Support Email** | `fahadislam.fir@gmail.com` (Clickable `mailto:` with one-click copy) |
 | **Official Website Domain** | `https://wisperlab.fahadislam.com` |
 
 ---
@@ -89,7 +89,7 @@ Crafted in accordance with Swiss architectural grid principles (inspired by Stri
    - **"Copy Machine-Readable JSON Dossier"** button for immediate regulatory review.
 
 6. **Direct Contact & Inquiry Dispatch (`#contact`)**
-   - Left: Direct contact cards for phone (`+8801516556465`), email (`contact@fahadislam.com`), and physical registered office with one-click copy buttons and operating hours (Sunday–Thursday, 09:00–18:00 BST).
+   - Left: Direct contact cards for phone (`+8801516556465`), email (`fahadislam.fir@gmail.com`), and physical registered office with one-click copy buttons and operating hours (Sunday–Thursday, 09:00–18:00 BST).
    - Right: Interactive HTML contact form with real-time validation (name, business email, inquiry category, message) and an instant simulated dispatch receipt displaying reference ticket code (`WL-REF-2026-XXXX`) and timestamp.
 
 7. **Compliance Footer & Interactive Legal Modals**
@@ -133,6 +133,7 @@ Because the codebase is written in clean, modern HTML5, CSS, and vanilla JS, the
 - [x] Trade License Number matches government database (`20268119454000219`).
 - [x] Registered Address includes Ward No- 07, Post Office: Krishnapur, Upazila: Tanore, Rajshahi-6220.
 - [x] Official Phone is clickable and matches business records (`+8801516556465`).
-- [x] Official Email matches custom domain authority (`contact@fahadislam.com`).
+- [x] Official Support Email matches verified inbox (`fahadislam.fir@gmail.com`).
 - [x] Privacy Policy, Terms of Service, and Refund & Delivery Policy are functional and non-placeholder.
 - [x] Schema.org `Organization` and `LocalBusiness` JSON-LD are pre-rendered in `<head>`.
+
